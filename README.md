@@ -2,7 +2,7 @@
 
 [![Javadocs](http://www.javadoc.io/badge/com.bugfender.sdk/android.svg)](http://www.javadoc.io/doc/com.bugfender.sdk/android)
 
-## SDK Installation
+## SDK Installation - Nice
 Here are the main points to getting Bugfender working on your apps:
 
 * Get an app key at [bugfender.com](https://bugfender.com/)
